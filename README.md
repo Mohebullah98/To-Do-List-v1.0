@@ -12,6 +12,9 @@ Basic To do list for daily life and work. Built using node and Express JS with E
  
  How to run
  1.Clone the project onto your local machine.
- 2.Enter the project's directory in your CLI
+ 
+ 2.Enter the project's directory in your CLI.
+ 
  3.)Run with Node using 'node app.js' command.
+ 
  4.) Type http://localhost:3000/ into your browser.
